@@ -1,0 +1,22 @@
+{
+  "name": "santy_global",
+  "description": "global repo",
+  "main": "index.js",
+  "authors": [
+    "santy"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "modernizr": "~2.8.1",
+    "angular": "1.6.5"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
